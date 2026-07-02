@@ -16,14 +16,7 @@ The project measures the Higgs boson production cross-section in the \(H \righta
 
 Measured cross-section:
 
-\[
-\sigma(H \rightarrow \gamma\gamma)
-=
-65.9 \pm 7.67_{\mathrm{syst}}
-\pm 10.4_{\mathrm{stat}}
-\pm 1.38_{\mathrm{lumi}}
-\ \mathrm{fb}
-\]
+**σ(H → γγ) = 65.9 ± 7.67 (systematic) ± 10.4 (statistical) ± 1.38 (luminosity) fb**
 
 The measured value is consistent with Standard Model expectations within the quoted uncertainties.
 
