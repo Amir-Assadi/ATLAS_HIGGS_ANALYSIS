@@ -2,7 +2,7 @@
 
 This repository contains my third-year undergraduate particle physics project completed at the University of Manchester.
 
-The project measures the Higgs boson production cross-section in the \(H \rightarrow \gamma\gamma\) decay channel using 13 TeV ATLAS Open Data. The analysis applies photon selection criteria, models the signal with Gaussian fits, models the background using several functional forms, and extracts the Higgs signal from the diphoton invariant mass distribution.
+The project measures the Higgs boson production cross-section in the \(H to gamma,gamma) decay channel using 13 TeV ATLAS Open Data. The analysis applies photon selection criteria, models the signal with Gaussian fits, models the background using several functional forms, and extracts the Higgs signal from the diphoton invariant mass distribution.
 
 ## Project Objectives
 
