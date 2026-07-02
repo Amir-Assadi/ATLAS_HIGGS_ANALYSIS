@@ -20,12 +20,6 @@ Measured cross-section:
 
 The measured value is consistent with Standard Model expectations within the quoted uncertainties.
 
-## Repository Contents
-
-- `src/` Python analysis scripts
-- `report/` Full laboratory report
-- `figures/` Figures generated during the analysis
-
 ## Skills Demonstrated
 
 - Particle physics data analysis
@@ -43,6 +37,4 @@ The measured value is consistent with Standard Model expectations within the quo
 - SciPy
 - Matplotlib
 
-## Report
 
-The complete project report is available in the `report` folder.
